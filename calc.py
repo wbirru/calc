@@ -1,3 +1,4 @@
+"""CLC.PY: A SIMPLE PYTHON CALCULATOR."""
 import sys
 
 def add_all(nums):
